@@ -9907,18 +9907,16 @@ form .row:first-child .floating-label-form-group {
 /* Featured Posts End
 ------------------------- */
 
-/* Carousel
+/* Full Width Image
 ------------------------- */
 
-.carousel-item {
-  height: 100vh;
-  min-height: 350px;
+.bg-image-full {
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
+  -o-background-size: cover;
 }
 
-/* Carousel End
+/* Full Width Image End
 ------------------------- */
